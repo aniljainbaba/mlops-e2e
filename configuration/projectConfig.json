@@ -2,9 +2,9 @@
     "projectName": "mlops-e2e",
     "repoType": "codecommit",
     "git": {
-        "githubConnectionArn": "",
-        "githubRepoOwner": "",
-        "githubRepoName": ""
+        "githubConnectionArn": "arn:aws:codestar-connections:us-west-2:767170012283:connection/17acf32b-3622-4c15-9599-3ec9e8801646",
+        "githubRepoOwner": "aniljainbaba",
+        "githubRepoName": "mlops-e2e"
     },
     "modelEndpointExportNamePrefix": "ModelHostingEndpoint",
     "ipPermitList": [
