@@ -2,7 +2,7 @@
     "projectName": "mlops-e2e",
     "repoType": "codecommit",
     "git": {
-        "githubConnectionArn": "arn:aws:codestar-connections:us-west-2:767170012283:connection/17acf32b-3622-4c15-9599-3ec9e8801646",
+        "githubConnectionArn": "arn:aws:codestar-connections:us-east-1:767170012283:connection/630f1366-4375-4427-b290-b32b76ee6299",
         "githubRepoOwner": "aniljainbaba",
         "githubRepoName": "mlops-e2e"
     },
